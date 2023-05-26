@@ -1,0 +1,26 @@
+.chat{
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+    margin-right: 10px;
+  .right-chat{
+        top: 90%;
+        position: fixed;
+        z-index: 99999;
+        background-color: hsla(126, 100%, 50%, 1);
+        border-radius: 50%;
+        .what{
+            color: black;
+            &:hover{
+                color:hsl(0, 100%, 100%);
+            }
+        }
+        
+    }
+}
+
+// https://www.linkedin.com/in/gausiyaboutique/
+// https://www.facebook.com/gausiyaboutiques
+// https://www.instagram.com/gausiyaboutiques/
+// https://in.pinterest.com/gausiyaboutique/
+// "https://wa.me/919967924064"

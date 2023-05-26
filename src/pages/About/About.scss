@@ -1,0 +1,47 @@
+.main{
+  padding: 10px 100px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 1px;
+  background-color: rgb(242, 242, 242);
+ .nisar{
+  color: rgb(255, 153, 0);
+  font-size: 2rem;
+  font-weight: 400;
+ }
+ .about{
+  margin: 5px;
+  .wel{
+    color: rgb(0, 102, 0);
+    border-bottom: solid  1px rgb(255, 0, 0);
+    font-size: 2rem;
+    font-weight: 400;
+   
+  }
+  .para-s{
+    margin: 5px;
+    .Company{
+      color: rgb(255, 153, 0);
+      font-size: 1.5rem;
+      font-weight: 400;
+    }
+   .parag{
+    font-size: 1.5rem;
+    letter-spacing: .5px;
+   }
+  }
+  .payment{
+.option{
+  color: rgb(255, 153, 0);
+  border-bottom: solid  1px rgb(255, 0, 0);
+      font-size: 2rem;
+      font-weight: 400;
+      margin: 2px;
+}
+.icons{
+  margin: 10px;
+}
+}
+ }
+}

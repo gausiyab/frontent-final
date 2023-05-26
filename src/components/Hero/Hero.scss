@@ -1,0 +1,38 @@
+.content{
+    // margin-top: 10px;
+    padding: 5px 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    .name{
+        color: hsl(24, 97%, 48%);
+        font-size: 2rem;
+        font-weight: 500;
+    }
+    .homeer{
+        color: hsl(0, 0%, 0%);
+        // margin: 5px;
+    }
+    button{
+        margin-top: 5px;
+        padding: 5px;
+        outline: 0;
+        border-radius: 1rem;
+        height: 3rem;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 1.7rem;
+        color: rgb(230, 230, 241);
+        background-color:  rgb(0, 102, 0);
+        border-bottom: 3px solid rgb(179, 77, 77);
+        &:hover{
+            background-color: white;
+            color: hsl(240, 100%, 40%);
+        }
+     }
+
+}

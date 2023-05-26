@@ -1,0 +1,57 @@
+.support{
+    padding: 10px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    background-color: rgb(242, 242, 242);
+    .link{
+        h1{
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            color: hsl(24, 100%, 50%);
+        }
+        margin: 2rem;
+        .icons{
+        margin: 0 10px;
+        }
+    }
+    .customer{
+        .head{
+            font-size: 2rem;
+            margin: 10px;
+            color: hsl(24, 100%, 50%);
+        }
+        .secondd{
+            font-size: 1.5rem;
+            padding: 10px 100px;
+        }
+
+    }
+.contact{
+    background-color: rgb(242, 242, 242);
+    h2{
+        font-size: 2rem;
+        margin: 10px;
+        color: hsl(24, 100%, 50%);
+    }
+    .title{
+        font-size: 2.2rem;
+        font-weight: 500;
+    }
+    .text{
+        font-size: 1.5rem;
+        font-weight: 500;
+        padding: 5px 100px;
+    }
+    .c-item{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        .textt{
+            font-size: 1.5rem;
+            font-weight: 500;
+            margin: 10px;
+        }
+    }
+}
+}

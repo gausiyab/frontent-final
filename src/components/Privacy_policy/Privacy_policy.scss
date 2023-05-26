@@ -1,0 +1,22 @@
+.privacy{
+    padding: 10px 100px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    background-color: rgb(242, 242, 242);
+    margin: 10px;
+    .head{
+        font-size: 2rem;
+        font-weight: 600;
+        color: hsl(24, 100%, 50%);
+        margin: 10px;
+    }
+    .second{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .secondd{
+        margin: 5px;
+        font-size: 1.7rem;
+        font-weight: 600;
+    }
+}
