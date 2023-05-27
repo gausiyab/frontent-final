@@ -47,7 +47,7 @@ return total.toFixed(2);
       <img src={import.meta.env.VITE_API_UPLOAD_URL + item.img} alt="" />
       <div className="details">
       <h2>{item.proid}</h2>
-        <h2>{item.tittle?.substring(0, 25)}</h2>
+        <h2>{item.tittle}</h2>
         <h2>Size : {item.selectedSize}</h2>
         <h2>Length : {item.lengthSize}</h2>
         <div className="price">{item.quantity} x ${item.price}</div>
